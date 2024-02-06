@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="projetoFenix">
+    <output-path>$PROJECT_DIR$/out/artifacts/projetoFenix</output-path>
+    <root id="archive" name="projetoFenix.jar" />
+  </artifact>
+</component>
